@@ -5,7 +5,6 @@
    "id": "6fab2661-afa8-490b-ade1-c19a289553e8",
    "metadata": {},
    "source": [
-    "# PRIMO ESERCIZIO COPIA E INCOLLA TUTTO VIA\n",
     "1. a) Scrivere una function che, presi in input un vettore x ∈ IRM (con M intero positivo arbitrario), uno scalare h > 0 e un function handle che definisce una funzione f : IR → IR , restituisce in output la seguente approssimazione alle differenze finite di f′′ calcolata per ciascuna componente del vettore x,\n",
     "f′′(x)≈ −f(x+3h)+4f(x+2h)−5f(x+h)+2f(x) h2\n",
     "b) Realizzare uno script che, utilizzando la function costruita al punto precedente, calcola 10 approssimazioni corrispondenti a h = 2·10−j , j = 1, . . . , 10 della derivata seconda in 0 , 0.5 , 1 per ciascuna delle seguenti quattro funzioni:\n",
